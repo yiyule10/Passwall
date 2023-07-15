@@ -4,8 +4,17 @@ DOMAIN-SUFFIX,2xfree.org
 # GGPT
 DOMAIN-SUFFIX,gamegamept.com
 
+# HDChina(瓷器)
+DOMAIN-SUFFIX,hdchina.org
+
+# HDSky(天空)
+DOMAIN-SUFFIX,hdsky.me
+
 # 红叶
 DOMAIN-SUFFIX,leaves.red
+
+# 铃音club
+DOMAIN-SUFFIX,soulvoice.club
 
 # 馒头
 DOMAIN-SUFFIX,m-team.cc
@@ -13,11 +22,17 @@ DOMAIN-SUFFIX,m-team.cc
 # 猫站
 DOMAIN-SUFFIX,pterclub.com
 
+# ZHUQUE(朱雀)
+DOMAIN-SUFFIX,zhuque.in
+
 # OKPT
 DOMAIN-SUFFIX,okpt.net
 
 # Panda
 DOMAIN-SUFFIX,pandapt.net
 
-# 铃音club
-DOMAIN-SUFFIX,soulvoice.club
+# TTG
+DOMAIN-SUFFIX,totheglory.im
+
+# 影
+DOMAIN-SUFFIX,shadowflow.org
