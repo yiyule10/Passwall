@@ -4,6 +4,9 @@ DOMAIN-SUFFIX,2xfree.org
 # Audiences(观众)
 DOMAIN-SUFFIX,audiences.me
 
+# CHDBit(彩虹岛)
+DOMAIN,ptchdbits.co
+
 # GGPT
 DOMAIN-SUFFIX,gamegamept.com
 
