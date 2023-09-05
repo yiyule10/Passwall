@@ -5,7 +5,10 @@ DOMAIN-SUFFIX,2xfree.org
 DOMAIN-SUFFIX,audiences.me
 
 # CHDBit(彩虹岛)
-DOMAIN,ptchdbits.co
+DOMAIN-SUFFIX,ptchdbits.co
+
+# FileList
+DOMAIN-SUFFIX,filelist.io
 
 # GGPT
 DOMAIN-SUFFIX,gamegamept.com
