@@ -29,9 +29,6 @@ DOMAIN,tracker.hdsky.me
 # M-Team(馒头)
 DOMAIN,tracker.m-team.cc
 
-# ZHUQUE(朱雀)
-DOMAIN,tracker.zhuque.in
-
 # OKPT
 DOMAIN,www.okpt.net
 
@@ -43,6 +40,12 @@ DOMAIN,tracker.pterclub.com
 
 # TTG(听听歌)
 DOMAIN,tracker.totheglory.im
+
+# ZHUQUE(朱雀)
+DOMAIN,tracker.zhuque.in
+
+# ZmPT(织梦)
+DOMAIN,zmpt.cc
 
 # 影
 DOMAIN,tracker.shadowflow.org

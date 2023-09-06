@@ -28,9 +28,6 @@ DOMAIN-SUFFIX,hdsky.me
 # M-Team(馒头)
 DOMAIN-SUFFIX,m-team.cc
 
-# ZHUQUE(朱雀)
-DOMAIN-SUFFIX,zhuque.in
-
 # OKPT
 DOMAIN-SUFFIX,okpt.net
 
@@ -42,6 +39,12 @@ DOMAIN-SUFFIX,pterclub.com
 
 # TTG(听听歌)
 DOMAIN-SUFFIX,totheglory.im
+
+# ZHUQUE(朱雀)
+DOMAIN-SUFFIX,zhuque.in
+
+# ZmPT(织梦)
+DOMAIN-SUFFIX,zmpt.cc
 
 # 影
 DOMAIN-SUFFIX,shadowflow.org
