@@ -27,7 +27,7 @@ DOMAIN,tracker.hdchina.org
 DOMAIN,tracker.hdsky.me
 
 # kamept(龟站)
-DOMAIN-SUFFIX,kamept.com
+DOMAIN,kamept.com
 
 # M-Team(馒头)
 DOMAIN,tracker.m-team.cc
@@ -64,7 +64,7 @@ DOMAIN,tracker.hhan.club
 DOMAIN,hhanclub.top
 
 # 打胶
-DOMAIN-SUFFIX,dajiao.cyou
+DOMAIN,dajiao.cyou
 
 # 红叶
 DOMAIN,tracker.leaves.red
