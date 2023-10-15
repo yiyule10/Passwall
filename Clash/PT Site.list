@@ -25,6 +25,9 @@ DOMAIN-SUFFIX,hdchina.org
 # HDSky(天空)
 DOMAIN-SUFFIX,hdsky.me
 
+# kamept(龟站)
+DOMAIN-SUFFIX,kamept.com
+
 # M-Team(馒头)
 DOMAIN-SUFFIX,m-team.cc
 
@@ -57,6 +60,9 @@ DOMAIN-SUFFIX,shadowflow.org
 
 # 憨憨
 DOMAIN-SUFFIX,hhanclub.top
+
+# 打胶
+DOMAIN-SUFFIX,dajiao.cyou
 
 # 红叶
 DOMAIN-SUFFIX,leaves.red
