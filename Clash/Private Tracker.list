@@ -83,3 +83,6 @@ DOMAIN,pt.soulvoice.club
 
 # 国内tmdb代理api
 DOMAIN,api.tmdb.org
+
+# docker版qb
+PROCESS-NAME,qbittorrent-nox
