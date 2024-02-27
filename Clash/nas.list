@@ -1,0 +1,11 @@
+# 国内tmdb代理api
+DOMAIN,api.tmdb.org
+
+# docker版qb
+PROCESS-NAME,qbittorrent-nox
+
+# docker版网心云（容器魔方）
+PROCESS-NAME,dcdn_download_service
+PROCESS-NAME,wxedged
+PROCESS-NAME,dcdn_client_docker
+PROCESS-NAME,libc.so
