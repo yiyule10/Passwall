@@ -1,2 +1,5 @@
 # Grass
-DOMAIN,api.getgrass.io
+DOMAIN-SUFFIX,getgrass.io
+
+#nodepay
+DOMAIN-SUFFIX,nodepay.ai
