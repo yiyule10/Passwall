@@ -1,2 +1,5 @@
 # Grass
-DOMAIN,proxy.wynd.network
+DOMAIN,api.getgrass.io
+
+# Nodepay
+DOMAIN,api.nodepay.ai
