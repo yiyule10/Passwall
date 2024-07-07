@@ -4,6 +4,9 @@ DOMAIN,api.tmdb.org
 # docker版qb
 PROCESS-NAME,qbittorrent-nox
 
+# docker版nezha-agent
+PROCESS-NAME,nezha-agent
+
 # docker版网心云（容器魔方）
 PROCESS-NAME,dcdn_download_service
 PROCESS-NAME,wxedged
