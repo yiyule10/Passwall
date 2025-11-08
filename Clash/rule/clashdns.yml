@@ -1,0 +1,39 @@
+mode: rule
+mixed-port: 7997
+socks-port: 7998
+port: 7999
+skip-auth-prefixes:
+- 192.168.1.0/24
+- 127.0.0.1/8
+- ::1/128
+allow-lan: true
+unified-delay: true
+log-level: info
+ipv6: true
+external-controller: '0.0.0.0:9197'
+tcp-concurrent: true
+global-client-fingerprint: random
+geodata-mode: true
+geo-auto-update: true
+geo-update-interval: 12
+geox-url:
+    geoip: 'https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/GeoIP.dat'
+    geosite: 'https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geosite.dat'
+    mmdb: 'https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geoip.metadb'
+    asn: 'https://github.com/xishang0128/geoip/releases/download/latest/GeoLite2-ASN.mmdb'
+dns:
+    enable: true
+    prefer-h3: false
+    use-hosts: true
+    use-system-hosts: true
+    respect-rules: false
+    listen: '0.0.0.0:5353'
+    ipv6: true
+    default-nameserver: [223.5.5.5, 223.6.6.6, 114.114.114.114]
+    enhanced-mode: fake-ip
+    fake-ip-range: 198.18.0.1/16
+    fake-ip-filter: ['*.lan', localhost.ptlogin2.qq.com]
+    nameserver: ['https://doh.pub/dns-query', 'https://dns.alidns.com/dns-query']
+    #fallback: ['https://8.8.8.8/dns-query', 'https://1.1.1.1/dns-query', 'https://1.0.0.1/dns-query', 'https://208.67.222.222/dns-query', 'https://208.67.220.220/dns-query']
+    proxy-server-nameserver: ['https://doh.pub/dns-query', 'https://dns.alidns.com/dns-query']
+    fallback-filter: { geoip: true, geoip-code: CN, geosite: [gfw], ipcidr: [240.0.0.0/4], domain: [+.google.com, +.facebook.com, +.youtube.com, +.github.com] }
