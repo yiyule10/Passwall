@@ -19,3 +19,6 @@ DOMAIN,ext2-sgp1.steamserver.net
 DOMAIN,ext3-sgp1.steamserver.net
 DOMAIN,ext4-sgp1.steamserver.net
 DOMAIN,ext2-lax1.steamserver.net
+
+# 新增子域名
+DOMAIN,cmp1-tyo3.steamserver.net
