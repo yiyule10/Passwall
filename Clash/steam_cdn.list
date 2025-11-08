@@ -3,22 +3,4 @@
 # 请确保此规则优先级高于 Steam 规则
 # 影响下载区域，而且会影响所在区域
 
-DOMAIN,ext1-hkg1.steamserver.net
-DOMAIN,ext2-hkg1.steamserver.net
-DOMAIN,ext3-hkg1.steamserver.net
-DOMAIN,ext4-hkg1.steamserver.net
-DOMAIN,ext5-hkg1.steamserver.net
-DOMAIN,ext6-hkg1.steamserver.net
-DOMAIN,ext7-hkg1.steamserver.net
-DOMAIN,ext1-tyo3.steamserver.net
-DOMAIN,ext2-tyo3.steamserver.net
-DOMAIN,ext3-tyo3.steamserver.net
-DOMAIN,ext4-tyo3.steamserver.net
-DOMAIN,ext1-sgp1.steamserver.net
-DOMAIN,ext2-sgp1.steamserver.net
-DOMAIN,ext3-sgp1.steamserver.net
-DOMAIN,ext4-sgp1.steamserver.net
-DOMAIN,ext2-lax1.steamserver.net
-
-# 新增子域名
-DOMAIN,cmp1-tyo3.steamserver.net
+DOMAIN-SUFFIX,steamserver.net
